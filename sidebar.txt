@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yur:home|Door43 (yur)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yur|d43-yur repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yur/archive/master.zip|d43-yur.zip]]
+
+**Recent Changes**
+{{changes>ns = yur}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yur|Ethnologue data]]
+
